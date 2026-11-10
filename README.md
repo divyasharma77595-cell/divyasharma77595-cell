@@ -16,7 +16,7 @@ I'm a BBA student passionate about technology, artificial intelligence, and digi
 | Color Catch Challenge | Interactive color-catching game | [Code](https://github.com/divyasharma77595-cell/Color-Catch-Challenge) |
 | Tour & Travel Chatbot | AI chatbot designed to answer customer travel questions | [Website](https://udaan-tours-travels.vercel.app/) |
 | My Intro | Personal introduction webpage | [Code](https://github.com/divyasharma77595-cell/my-intro) |
-| Udaan Tours & Travels | Travel website featuring travel services and destinations | [Live Website](https://udaan-tours-travels.vercel.app/) |## Skills
+| Udaan Tours & Travels | Travel website featuring travel services and destinations | [Live Website](https://udaan-tours-travels.vercel.app/) |## Skills:-
 
 | Area | Technologies |
 |---|---|
