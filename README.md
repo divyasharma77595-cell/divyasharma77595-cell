@@ -1,17 +1,49 @@
-# Divya Sharma
 
-**Digital Marketing with AI Student** · Vibe Coder · Kaithal, Haryana, India
+# Hi, I'm Divya Sharma 👋
 
-[LinkedIn](https://www.linkedin.com/in/divya-sharma-5324b1429) · [divyasharma77595@gmail.com](mailto:divyasharma77595@gmail.com)
+### Digital Marketing with AI Student | AI & Technology Enthusiast
 
-Main websites, chatbots aur games banati hoon vibe coding tools se, aur AI se smart marketing seekh rahi hoon.
+I'm a BBA student passionate about technology, artificial intelligence, and digital innovation.
 
-**Tools:** Google AI Studio · Replit · Bolt.new · Emergent · Lovable · VS Code · Git & GitHub
+- 💻 Building websites, chatbots, and interactive games
+- 🤖 Exploring AI tools and AI-powered applications
+- 🌱 Learning web development and AI-assisted coding
+- 🚀 Interested in creating innovative digital products
 
-## Projects
+## 🛠️ Tools & Technologies
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| Color Catch Challenge | Colours catch karne wala interactive game | [Code](https://github.com/divyasharma77595-cell/Color-Catch-Challenge) |
-| Tour & Travel Chatbot | AI chatbot jo customers ke sawalon ke jawab deta hai (Groq API, Vercel) | Coming soon |
-| My Intro | Mera introduction page | [Code](https://github.com/divyasharma77595-cell/my-intro) |
+- **Development:** VS Code, Git, GitHub, React, JavaScript
+- **AI Tools:** Google AI Studio, Replit, Bolt.new, Emergent, Lovable
+- **Interests:** AI, Web Development, Digital Marketing
+
+## 🚀 Featured Projects
+
+### 🎮 Color Catch Challenge
+Interactive color-catching game.
+
+[💻 View Source Code](https://github.com/divyasharma77595-cell/Color-Catch-Challenge)
+
+### 🌍 Udaan Tours & Travels
+Travel website featuring travel services and destinations.
+
+[🌐 Visit Live Website](https://udaan-tours-travels.vercel.app/)
+
+### 🤖 Tour & Travel Chatbot
+AI chatbot designed to answer customer travel questions.
+
+[🌐 Live Demo](https://udaan-tours-travels.vercel.app/)
+
+### 👩 My Intro
+My personal introduction webpage.
+
+[💻 View Source Code](https://github.com/divyasharma77595-cell/my-intro)
+
+## 🎯 My Goal
+
+To continuously learn, build meaningful projects, and grow in the world of AI and technology.
+
+## 🤝 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/divya-sharma-5324b1429/)
+- [GitHub](https://github.com/divyasharma77595-cell)
+- [Website](https://udaan-tours-travels.vercel.app/)
